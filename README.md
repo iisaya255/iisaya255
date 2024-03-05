@@ -1,14 +1,14 @@
 ### Hi, welcome 👋
 
-- I’m lu, location at sh (🇨🇳Shanghai)
-- working as a server-side programmer
+- iisaya
+- server-side programmer
 - Java / Python / JavaScript / C / Rust
 
-leanrning
+skill
 
-- computer graphics
-- simulator: such like nes/gba
-- compiler: clang & llvm
-- multimedia process
-- kv database
+- database
+- graphics
+- simulator
+- compiler
+- multimedia
 - machine learning
